@@ -11,6 +11,10 @@ links:
       avatar: https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/avatar/avatar.png
       url: https://xaoxuu.com
       tags: [主题作者]
+    - name: Atuo's Blog
+      avatar: https://oss-hexo.oss-cn-hongkong.aliyuncs.com/HeadImage.jpg
+      url: https://blog.atuo.store
+      tags: [网络安全]
   - group: '版本：^1.5'
     items:
     - name: Linhk1606
